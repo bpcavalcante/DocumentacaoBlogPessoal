@@ -1,2 +1,4 @@
 # DocumentacaoBlogPessoal
-Documentação do Projeto do Blog Pessoal  https://github.com/bpcavalcante/blogPessoal   https://github.com/bpcavalcante/BlogPessoalBackEnd
+Documentação do Projeto do Blog Pessoal
+Front-end: https://github.com/bpcavalcante/blogPessoal
+Back-end:  https://github.com/bpcavalcante/BlogPessoalBackEnd
